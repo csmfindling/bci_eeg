@@ -1,13 +1,13 @@
-# bci_eeg
+## bci_eeg
 Brain Computer Interface based on 8 channels OpenBCI EEG
 
-# Goal
+## Goal
 Online detection of the alpha and beta rythms from eeg data.
 
-# Requirements
+## Requirements
 EEGSynth : http://eegsynth.org/
 
-# Repo description
+## Repo description
 The main script is mainCanvas.py.
 
 Obtaining the alpha and beta waves are obtained with both wavelet transforms and Welch fourier transform.
