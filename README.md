@@ -1,5 +1,6 @@
 ## Brain computer interface with online eeg processing
-Brain Computer Interface based on 8 channels OpenBCI EEG
+Brain Computer Interface based on 8 channels <a href="http://openbci.com/" class="underline">OpenBCI !</a>
+ EEG
 
 ## Goal
 Online detection of the alpha and beta rythms from eeg data.
