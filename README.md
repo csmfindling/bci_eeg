@@ -1,4 +1,4 @@
-## bci_eeg
+## Brain computer interface with online eeg processing
 Brain Computer Interface based on 8 channels OpenBCI EEG
 
 ## Goal
