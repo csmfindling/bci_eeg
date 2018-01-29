@@ -15,4 +15,4 @@ Obtaining the alpha and beta waves are obtained with both wavelet transforms and
 Both signals are plotted online and the alpha signal is written online in a redis database that can be retrieved
 as a control signal.
 
-The wavelet transform is also served to an LSTM to predict intention of movements.
+The wavelet transform is also served to an LSTM (tf_lstm.py) to predict intention of movements.
